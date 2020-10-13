@@ -18,6 +18,12 @@
 >
 >  [官方博客及代码](https://deeplizard.com/learn/video/v5cngxo4mIg)
 
+
+
+4.  pytorch_lightning 类keras库，减少pytorch代码，快速搭建模型
+
+> [pytorch_lightning](./code/4. pytorch_lightning)
+
 ### book
 
 #### 可视化
